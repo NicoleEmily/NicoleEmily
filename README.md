@@ -1,4 +1,5 @@
 ### Welcome to our website!
+### Hello it's Nicole and Emily
 
 <!--
 **NicoleEmily/NicoleEmily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
